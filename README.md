@@ -12,7 +12,7 @@ I am a Systems Administrator with decades of experience in IT operations, not a 
 
   Transparency: I have made this repository Open Source specifically so users can audit the code.
 
-  Safety: You are encouraged to review main.js and index.html to verify that this application interacts safely with your system.
+  Safety: You are encouraged to review main.js, logic.js and index.html to verify that this application interacts safely with your system.
 
 Features
 
